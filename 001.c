@@ -1,3 +1,5 @@
+// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30746
+
 #include <stdio.h>
 
 static char number[10][5][6] = {{{"*****\0"}, {"*   *\0"}, {"*   *\0"}, {"*   *\0"}, {"*****\0"}},
