@@ -1,4 +1,3 @@
-// https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30755
 #include <stdio.h>
 #include <stdlib.h>
 

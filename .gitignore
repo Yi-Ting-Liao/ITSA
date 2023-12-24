@@ -2,3 +2,7 @@
 !/**/
 !*.*
 in.txt
+tempCodeRunnerFile.c
+*.dSYM
+.DS_Store
+gitpush.sh
