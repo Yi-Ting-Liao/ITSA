@@ -2,6 +2,7 @@
 !/**/
 !*.*
 in.txt
+out.txt
 tempCodeRunnerFile.c
 *.dSYM
 .DS_Store
