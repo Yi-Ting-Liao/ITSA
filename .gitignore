@@ -2,8 +2,11 @@
 !/**/
 !*.*
 in.txt
+in2.txt
 out.txt
 tempCodeRunnerFile.c
 *.dSYM
 .DS_Store
 gitpush.sh
+test.c
+tmp.c

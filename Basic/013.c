@@ -1,4 +1,5 @@
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30764
+// Can't get AC, but I don't know why
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -16,9 +17,9 @@ int Cmp(const void *a, const void *b) {
     } else if (((const Card *)a)->suitOrder < ((const Card *)b)->suitOrder) {
         return -1;
     } else {
-        if (((const Card *)a)->value > ((const Card *)b)->value) {
+        if (((((const Card *)a)->value + 10) % 13) > ((((const Card *)b)->value + 10) % 13)) {
             return 1;
-        } else if (((const Card *)a)->value < ((const Card *)b)->value) {
+        } else if (((((const Card *)a)->value + 10) % 13) < ((((const Card *)b)->value + 10) % 13)) {
             return -1;
         } else {
             return 0;
