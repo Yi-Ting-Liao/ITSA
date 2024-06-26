@@ -1,5 +1,5 @@
-
 // https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30752
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>

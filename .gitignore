@@ -5,6 +5,7 @@ in.txt
 in2.txt
 out.txt
 tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
 *.dSYM
 .DS_Store
 gitpush.sh
